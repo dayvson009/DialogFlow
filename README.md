@@ -13,7 +13,7 @@ Configuração de um novo ambiente.
     * **Passo 1:** Digite o nome do seu projeto
     * **Passo 2:** Escolha a opção: Em Uso > Proprietário
     * **Passo 1:** Não precisa digitar nada. só continuar
-8. Foi criado, vá até o projeto na parte de **CONTAS E SERVIÇOS**, e clique no icone do lápis (editar)
+8. Foi criado, Desça e vá até **CONTAS E SERVIÇOS**, e clique no icone do lápis (editar) no projeto criado
 9. Na janela que abriu vá para CHAVES > ADICIONAR CHAVE > CRIAR NOVA CHAVE > JSON > OK
 10. Pronto, essa chave deverá ser atualizada no arquivo
 
