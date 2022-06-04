@@ -8,10 +8,11 @@ Configuração de um novo ambiente.
 4. No menu superior esquerdo, clique na opção [APIs e Serviços](https://console.cloud.google.com/apis/dashboard?)
 5. Clique em **+ ATIVAR APIS E SERVIÇOS**, na página que abrir escreva no campo de busca "DIALOGFLOW API", clique no resultado.
 6. Verifique se a API está ativa, se não estiver, ative-a. Agora vamos voltar ao menu APIs e Serviços > Credenciais
-7. Clique em **+ CRIAR CREDENCIAIS**>Contas de Serviços, preencha o formulário, 
-    **Passo 1:** Digite o nome do seu projeto
-    **Passo 2:** Atualmente Usado > Proprietário
-    **Passo 1:** Não precisa digitar nada. só continuar
+7. Clique em **+ CRIAR CREDENCIAIS**>Contas de Serviços, preencha o formulário
+
+    * **Passo 1:** Digite o nome do seu projeto
+    * **Passo 2:** Escolha a opção: Em Uso > Proprietário
+    * **Passo 1:** Não precisa digitar nada. só continuar
 8. Foi criado, vá até o projeto na parte de **CONTAS E SERVIÇOS**, e clique no icone do lápis (editar)
 9. Na janela que abriu vá para CHAVES > ADICIONAR CHAVE > CRIAR NOVA CHAVE > JSON > OK
 10. Pronto, essa chave deverá ser atualizada no arquivo
