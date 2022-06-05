@@ -112,7 +112,7 @@ Vamos implementar o metódo POST e GET também já vindo do Dialogflow da seguin
 
 ```
 <GET>https://url/endpoint</GET>
-<POST>https://url/endpoint</post>
+<POST>https://url/endpoint</POST>
 <POSTDATA>{key: value}</POSTDATA>
 ```
 
