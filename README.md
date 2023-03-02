@@ -28,7 +28,7 @@ Insira o comando `npm install` para que seja instalada todas dependencias do pro
 É possível criar comandos dinamicamente através do DialogFlow e Whatsapp utilizando o método de Tags, a sequencia inicial para verificar se existem os elementos são: 
 
 ```
-<imagemCreate> --- Se no texto de resposta conter essa tag, ele vai criar como primeiro elemento da conversa
+<imagemCreate "d"> --- Se no texto de resposta conter essa tag, ele vai criar como primeiro elemento da conversa
 <text> ----------- Logo após ele cria um texto
 <buttonCreate> --- Se preferir pode também inserir um botão
 <listCreate> ----- E por fim uma lista se existir
